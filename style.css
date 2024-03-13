@@ -1,0 +1,22 @@
+ /* Full credit to code.org for task */
+  
+p {
+  color: darkgreen;
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img{
+  border: 5px solid darkgreen;
+  box-shadow: 10px 10px;
+  width: 150px;
+  height: 150px;
+}
+
+
+body{
+  background-image: linear-gradient(lightgreen, darkgreen);
+  
+}
